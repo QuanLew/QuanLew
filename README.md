@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <a href="#"><img src="https://i.pinimg.com/originals/ca/51/94/ca51948543c08b32ddbd75ef3b7ffb16.gif" alt="my logo" width="60%"></a>
+  <a href="#"><img src="https://i.pinimg.com/originals/ca/51/94/ca51948543c08b32ddbd75ef3b7ffb16.gif" alt="my logo" width="60=%" height="50%"></a>
 </p>
   
 I'm a full-stack developer looking to solve real-world problems. I'm really passionate about challenging myself to facing optimization problems. My problem-solving ability permits me to work extremely well below deadline pressure.
