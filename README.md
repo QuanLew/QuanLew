@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <a href="#"><img src="https://i.imgur.com/ppB9LNC.png" alt="my logo" width="60%"></a>
-  <iframe src="https://giphy.com/embed/5dl2u2Iy6hwEEXwlFv" width="60%" height="60%" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/flamenco-peintres-5dl2u2Iy6hwEEXwlFv">via GIPHY</a></p>
+  <a href="#"><img src="https://giphy.com/embed/5dl2u2Iy6hwEEXwlFv" alt="my logo" width="60%"></a>
 </p>
   
 I'm a full-stack developer looking to solve real-world problems. I'm really passionate about challenging myself to facing optimization problems. My problem-solving ability permits me to work extremely well below deadline pressure.
