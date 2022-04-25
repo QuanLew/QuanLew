@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <a href="#"><img src="https://i.pinimg.com/originals/ca/51/94/ca51948543c08b32ddbd75ef3b7ffb16.gif" alt="my logo" width="60%" height="70%"></a>
+  <a href="#"><img src="https://i.pinimg.com/originals/ca/51/94/ca51948543c08b32ddbd75ef3b7ffb16.gif" alt="my logo" width="50%" height="50%"></a>
 </p>
   
 I'm a full-stack developer looking to solve real-world problems. I'm really passionate about challenging myself to facing optimization problems. My problem-solving ability permits me to work extremely well below deadline pressure.
@@ -35,7 +35,6 @@ A little bit about Personal Stuffs:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 -->
-
 - 💬 Ask me about everything, I always be with you to help
 - 📫 How to reach me: miquanle1006@gmail.com
 - 😄 Pronouns: He/Him
